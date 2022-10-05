@@ -1,0 +1,32 @@
+﻿FormatVersion: 7
+Name: "BigStream"
+Script: "HitObjectHighlight"
+Config:
+  StartTime:
+    Type: "System.Int32"
+    Value: "209699"
+  EndTime:
+    Type: "System.Int32"
+    Value: "224856"
+  BeatDivisor:
+    Type: "System.Int32"
+    Value: "8"
+  FadeDuration:
+    Type: "System.Int32"
+    Value: "0"
+  SpritePath:
+    Type: "System.String"
+    Value: "sb/glow.png"
+  SpriteScale:
+    Type: "System.Double"
+    Value: "0.3"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  a123d9de7821460a817b27947ea3b0ea:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

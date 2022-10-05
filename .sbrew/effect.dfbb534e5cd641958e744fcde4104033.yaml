@@ -1,0 +1,32 @@
+﻿FormatVersion: 7
+Name: "kia2"
+Script: "HitObjectHighlight"
+Config:
+  StartTime:
+    Type: "System.Int32"
+    Value: "153266"
+  EndTime:
+    Type: "System.Int32"
+    Value: "154242"
+  BeatDivisor:
+    Type: "System.Int32"
+    Value: "8"
+  FadeDuration:
+    Type: "System.Int32"
+    Value: "250"
+  SpritePath:
+    Type: "System.String"
+    Value: "sb/glow.png"
+  SpriteScale:
+    Type: "System.Double"
+    Value: "0.3"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  6f344e72aad7436b8696ca57ccf490fa:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes

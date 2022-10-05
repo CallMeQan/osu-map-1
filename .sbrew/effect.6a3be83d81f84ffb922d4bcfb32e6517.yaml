@@ -1,0 +1,26 @@
+﻿FormatVersion: 7
+Name: "BlurBackground"
+Script: "Background"
+Config:
+  BackgroundPath:
+    Type: "System.String"
+    Value: "sb/blur.png"
+  StartTime:
+    Type: "System.Int32"
+    Value: "17441"
+  EndTime:
+    Type: "System.Int32"
+    Value: "315305"
+  Opacity:
+    Type: "System.Double"
+    Value: "0.6"
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random seed"
+Layers:
+  bcb82e0d653b41b0a66f321467dfe46c:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
